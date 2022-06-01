@@ -144,3 +144,4 @@ C:\Users\jhuli\Documents\Estudo\C\desenvolvedor.io\REST\Programs\MinhaApiComplet
 C:\Users\jhuli\Documents\Estudo\C\desenvolvedor.io\REST\Programs\MinhaApiCompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\jhuli\Documents\Estudo\C\desenvolvedor.io\REST\Programs\MinhaApiCompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\jhuli\Documents\Estudo\C\desenvolvedor.io\REST\Programs\MinhaApiCompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\jhuli\Documents\Estudo\C\desenvolvedor.io\REST\Programs\MinhaApiCompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

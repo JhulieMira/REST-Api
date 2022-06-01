@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="EntityFramework.SqlServerCompact" Version="6.4.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.4" />
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.4" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.4" />
@@ -27,6 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\app\src\assets\" />
     <Folder Include="wwwroot\imagens\" />
   </ItemGroup>
 
